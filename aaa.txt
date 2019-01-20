@@ -1,0 +1,6 @@
+public Class User{
+	private String username;
+	private int id;
+	private String sex;
+	
+}
