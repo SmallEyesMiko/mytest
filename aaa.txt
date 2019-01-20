@@ -1,0 +1,16 @@
+public Class User{
+	private String username;
+	private int id;
+	private String sex;
+    //我想去学Java 
+    //我不知道还怎么搞勒
+	//我猜我不是刘德华
+<<<<<<< .mine
+	//我不知道还怎么搞勒
+	//我猜我不是刘德华
+=======
+	//我想去学Java 
+
+>>>>>>> .theirs
+	
+}
