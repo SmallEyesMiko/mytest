@@ -2,5 +2,7 @@ public Class User{
 	private String username;
 	private int id;
 	private String sex;
+	//我不知道还怎么搞勒
+	//我猜我不是刘德华
 	
 }
