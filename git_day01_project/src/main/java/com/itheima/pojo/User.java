@@ -1,5 +1,5 @@
 package com.itheima.pojo;
-
+//提交更新了User
 public class User {
     private Integer id;
     private String username;
